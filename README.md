@@ -14,7 +14,7 @@ Running and documenting commands from:
 2. File Operations (cp, mv, rm)
 3. Permissions & Ownership (chmod, chown)
 4. User Management (useradd, usermod)
-... (add more as you go)
+... (and many more)
 
 ---
 
